@@ -1,4 +1,4 @@
-# m_health
+# Tool to predict mood changes of user through social media usage.
 
 A new Flutter application.
 
